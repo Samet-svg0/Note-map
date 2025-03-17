@@ -17,7 +17,8 @@ JavaScript
 Leaflet.js (harita işlevselliği için)
 
 # Ekran Goruntusu
-![Uploading bandicam2025-03-1708-18-19-062-ezgif.com-crop (1).gif…]()
+
+![bandicam2025-03-1708-18-19-062-ezgif com-crop (1)](https://github.com/user-attachments/assets/13f2364b-b9de-45d6-9c4c-e86aec208944)
 
 
 
